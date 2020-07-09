@@ -19,10 +19,15 @@ The intermediate results of each epoch can be saved in the Results folder.
 
 # Running environment
 Python 3.6.4
+
 Pytorch 1.3.1
+
 NVIDIA-SMI 430.64 
-Driver Version: 430.64       
+
+Driver Version: 430.64  
+
 CUDA Version: 10.1 
+
 GPU: Titan RTX
 
 Plaese note that, I run my model 10000 epoches, which takes about 3 minutes, occupying 3103M GPU memory.
