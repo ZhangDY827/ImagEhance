@@ -1,4 +1,4 @@
-# ImagEhance
+# low light image ehancemen
 This is a pytorch implementation repository for low light image ehancement in self-supervised manner. The idea of the code is from the paper
 Self-supervised Image Enhancement Network: Training With Low Light Images Only https://arxiv.org/abs/2002.11300d.
 
